@@ -20,13 +20,6 @@ This work is in progress, with open questions and preliminary results, aiming to
 
 ---
 
-## Preprints
-- **Modular Graphs: Preliminary Study** – [arXiv link]()
-
-*Note: This is a work in progress. Feedback is welcome!*
-
----
-
 ## Skills & Tools
 - Programming: Python, LaTeX  
 - Graph Theory: Discrete mathematics, combinatorics, modular graph structures  
